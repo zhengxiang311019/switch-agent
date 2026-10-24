@@ -1,0 +1,3 @@
+D:/codex_workspace/switch-agent/build/CMakeFiles/ot_analyzer.dir
+D:/codex_workspace/switch-agent/build/CMakeFiles/edit_cache.dir
+D:/codex_workspace/switch-agent/build/CMakeFiles/rebuild_cache.dir

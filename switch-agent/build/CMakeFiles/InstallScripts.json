@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/codex_workspace/switch-agent/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

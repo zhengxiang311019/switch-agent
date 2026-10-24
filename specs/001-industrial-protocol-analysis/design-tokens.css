@@ -1,0 +1,31 @@
+:root {
+  color-scheme: dark;
+  --ot-canvas: #10161b;
+  --ot-surface: #182128;
+  --ot-surface-raised: #202b34;
+  --ot-border: #34434d;
+  --ot-text-primary: #e8eff2;
+  --ot-text-secondary: #a5b4bc;
+  --ot-text-muted: #7e909a;
+  --ot-accent: #55c2d1;
+  --ot-healthy: #54c99a;
+  --ot-warning: #f1bc62;
+  --ot-critical: #f07870;
+  --ot-unknown: #9ba8b0;
+  --ot-chart-grid: #2b3942;
+  --ot-font-sans: Inter, "Segoe UI", "Microsoft YaHei", sans-serif;
+  --ot-font-numeric: Inter, "Segoe UI", sans-serif;
+  --ot-space-1: 4px;
+  --ot-space-2: 8px;
+  --ot-space-3: 12px;
+  --ot-space-4: 16px;
+  --ot-space-6: 24px;
+  --ot-space-8: 32px;
+  --ot-space-10: 40px;
+  --ot-radius-control: 4px;
+  --ot-radius-panel: 6px;
+  --ot-radius-pill: 999px;
+  --ot-shadow-popover: 0 8px 24px rgb(0 0 0 / 28%);
+  --ot-breakpoint-compact: 900px;
+  --ot-breakpoint-narrow: 640px;
+}

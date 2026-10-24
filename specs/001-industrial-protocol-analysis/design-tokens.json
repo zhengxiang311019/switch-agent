@@ -1,0 +1,35 @@
+{
+  "name": "OT Analyzer",
+  "version": "1.0.0",
+  "mode": "dark",
+  "colors": {
+    "canvas": "#10161B",
+    "surface": "#182128",
+    "surfaceRaised": "#202B34",
+    "border": "#34434D",
+    "textPrimary": "#E8EFF2",
+    "textSecondary": "#A5B4BC",
+    "textMuted": "#7E909A",
+    "accent": "#55C2D1",
+    "healthy": "#54C99A",
+    "warning": "#F1BC62",
+    "critical": "#F07870",
+    "unknown": "#9BA8B0",
+    "chartGrid": "#2B3942"
+  },
+  "typography": {
+    "fontSans": "Inter, Segoe UI, Microsoft YaHei, sans-serif",
+    "fontNumeric": "Inter, Segoe UI, sans-serif",
+    "pageTitle": "22px/28px",
+    "panelTitle": "16px/22px",
+    "body": "13px/20px",
+    "denseTable": "12px/18px",
+    "metric": "28px/32px",
+    "numericVariant": "tabular-nums"
+  },
+  "spacing": { "1": "4px", "2": "8px", "3": "12px", "4": "16px", "6": "24px", "8": "32px", "10": "40px" },
+  "radius": { "control": "4px", "panel": "6px", "pill": "999px" },
+  "shadow": { "popover": "0 8px 24px rgba(0, 0, 0, 0.28)" },
+  "breakpoints": { "compact": "900px", "narrow": "640px" },
+  "accessibility": { "textContrastTarget": "WCAG AA", "minimumDesktopTarget": "40px", "statusRequiresTextOrIcon": true }
+}

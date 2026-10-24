@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "protocols": {
+    "ethernet_ip": {
+      "categories": ["explicit_messaging", "implicit_io", "unknown", "unparseable", "encrypted"]
+    },
+    "profinet": {
+      "categories": ["discovery_configuration", "diagnostic_alarm", "real_time", "unknown", "unparseable", "encrypted"]
+    },
+    "modbus_tcp": { "categories": ["read", "write", "diagnostic_exception", "unknown", "unparseable"] },
+    "opcua": { "categories": ["hello_ack_error", "secure_channel", "unknown", "unparseable", "encrypted"] },
+    "mqtt": { "categories": ["control", "publish", "unknown", "unparseable", "encrypted"]
+    }
+  },
+  "rules": {
+    "unknown_is_separate": true,
+    "unparseable_is_separate": true,
+    "raw_application_payload_retained": false
+  }
+}
